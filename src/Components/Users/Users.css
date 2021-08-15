@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+    color: #000;
+    border: dashed .2rem #000;
+    border-radius: 2rem;
+    width: 50%;
+    margin: 2% 24%;
+    padding: 0.5%;
+}
+
+
+.values {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border: solid .2rem cornflowerblue;
+    border-radius: 2rem;
+    width: 20%;
+    margin: 1% 2%;
+    padding: 1%;
+}
+
+
+.users {
+    /* Box Model */
+    margin: 1% 2%;
+    padding: 1%;
+    /* Flexbox */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sum {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border: solid .2rem cornflowerblue;
+    border-radius: 2rem;
+    width: 20%;
+    margin: 1% 40%;
+    padding: 1%;
+}
